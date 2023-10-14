@@ -1,0 +1,211 @@
+body {
+    background-image: url(images/background-image.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: contain;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #232D3F;
+    
+}
+
+
+.nav-item a{
+    margin: 6px;
+       
+}
+
+
+.highlighted-text  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 30px;
+    color:azure;
+    
+}
+
+.quote {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:azure;
+
+}
+
+.Getstarted {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+ 
+}
+
+.btn1 {
+    margin-right: 20px; 
+
+}
+
+.trainers {
+    color: #F1EFEF;
+    
+    text-align: center;
+    margin-top: 120px;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+   margin-top: 40px;
+}
+
+.card {
+    background-color: #232D3F;
+    color: aliceblue;
+    margin: 50px;
+    
+}
+
+.exercise-text {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+    color: #F1EFEF;
+}
+
+.exercise_main {
+   display: flex;
+    margin: 50px;
+    
+}
+.cricle{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    clip-path: circle(50% at 50% 50%);
+    
+   
+}
+
+
+
+.exercise_1 {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    margin-left:150px;
+   
+    width: fit-content;
+   
+}
+
+.text-exercise_1 {
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.exercise_2 {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    margin-left:230px;
+   
+   width: fit-content;
+}
+
+.text-exercise_2 {
+    
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+
+
+.main_2 {
+    display: flex;
+   
+    
+}
+
+.exercise_3 {
+    display: flex;
+    margin-left: 200px;
+ 
+    
+ 
+    
+ }  
+.text-exercise_3 {
+     margin-left: 20px;
+     color: aliceblue;
+}
+
+.exercise_4 {
+    display: flex;
+    margin-left: 230px;
+    
+
+}
+
+.exercise_main_main {
+   /* border:  2px solid #B2533E; */
+    margin: 20px;
+    
+}
+
+/*footer*/
+
+.footer {
+
+    width:  100%;
+    
+    display :flex;
+    backdrop-filter: blur(8px);
+    border-top:2px solid rgb(156, 152, 152);
+    
+  
+}
+
+.contact {
+   
+    margin-left: 100px;
+    padding: 30px;
+    color: #F1EFEF;
+    width: fit-content;
+}
+
+.hours{
+    margin-left: 300px;
+    padding: 30px;
+    color: #F1EFEF;
+    
+   
+}
+
+.location {
+   
+    display: flex;
+    margin-left: 300px;
+    padding: 30px;
+    color: #F1EFEF;
+}
+
+.social_media{
+
+  
+    
+}
+
+.icons {
+       
+}
